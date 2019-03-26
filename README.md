@@ -1,7 +1,7 @@
-# BattleGameSimulation
-# A college project.
-# Contributors are 4 students:
-  # Radwa Khattab @RadwaSK
-  # Ali Khaled @Alii-Khaled
-  # Aly Ramzy @AlyRamzy
-  # Nour Ahmed
+## Battle Game Simulation
+### A college project.
+#### Collaborators are 4 students:
+  1. [Radwa Khattab](https://github.com/RadwaSK)
+  2. [Ali Khaled](https://github.com/Alii-Khaled)
+  3. [Aly Ramzy](https://github.com/AlyRamzy)
+  4. Nour Ahmed
