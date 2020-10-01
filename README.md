@@ -1,5 +1,5 @@
-## Battle Game Simulation
-### A college project.
+## Battle Game Simulation - improve your gaming skills 
+### A college project based game development 
 #### Collaborators are 4 students:
   1. [Radwa Khattab](https://github.com/RadwaSK)
   2. [Ali Khaled](https://github.com/Alii-Khaled)
